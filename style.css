@@ -1,17 +1,17 @@
 
 .table {
-	width: 100%;
-	margin-bottom: 20px;
-	border: 1px solid #dddddd;
+	width: 100;
+	margin-bottom: 20;
+	border: 1 solid #dddddd;
 	border-collapse: collapse; 
 }
 .table th {
 	font-weight: bold;
-	padding: 5px;
+	padding: 5;
 	background: #efefef;
-	border: 1px solid #dddddd;
+	border: 1 solid #dddddd;
 }
 .table td {
-	border: 1px solid #dddddd;
-	padding: 5px;
+	border: 1 solid #dddddd;
+	padding: 5;
 }
