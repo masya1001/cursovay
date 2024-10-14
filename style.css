@@ -4,3 +4,23 @@ table {
 table th {
 	border-collapse:collapse;width:100;text-align:center;
 }
+.css-3d-text {
+    font-size: 46px;
+    color: #c2c5ff;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-shadow: 0px 0px 0 rgb(27,30,88),
+                 0px 1px 0 rgb(14,17,75),
+                 0px 2px 0 rgb(2,5,63),
+                 0px 3px 0 rgb(-11,-8,50),
+                 0px 4px 0 rgb(-24,-21,37),
+                 0px 5px 0 rgb(-37,-34,24),
+                 0px 6px 0 rgb(-50,-47,11),
+                 0px 7px 0 rgb(-63,-60,0),
+                 0px 8px 0 rgb(-75,-72,0),
+                 0px 9px 0 rgb(-88,-85,0),
+                 0px 10px 0 rgb(-101,-98,0),
+                 0px 11px 0 rgb(-114,-111,0),
+                 0px 12px  0 rgb(-127,-124,0),
+                 0px 13px 12px rgba(154,94,214,0.87),
+                 0px 13px 1px rgba(154,94,214,0.5),
+                 0px 0px 12px rgba(154,94,214,.2);
