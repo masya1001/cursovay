@@ -41,3 +41,20 @@ table th {
                  0px 13px 1px rgba(154,94,214,0.5),
                  0px 0px 12px rgba(154,94,214,.2);
  }
+ .css-3d-text {
+    font-size: 72px;
+    color: #ffbf00;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-shadow: 0px 0px 0 rgb(237,173,0),
+                 0px -1px 0 rgb(219,155,0),
+                 0px -2px 0 rgb(200,136,0),
+                 0px -3px 0 rgb(182,118,0),
+                 0px -4px 0 rgb(164,100,0),
+                 0px -5px 0 rgb(146,82,0),
+                 0px -6px 0 rgb(127,63,0),
+                 0px -7px 0 rgb(109,45,0),
+                 0px -8px  0 rgb(91,27,0),
+                 0px -9px 8px rgba(224,131,0,0.77),
+                 0px -9px 1px rgba(224,131,0,0.5),
+                 0px 0px 8px rgba(224,131,0,.2);
+ }
