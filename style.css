@@ -1,25 +1,4 @@
-table {
-	color: white
-}
-table {
-	width: 100%;
-	border-collapse:collapse;
-	border-spacing:0;
-	height: auto;
-}
-table, table td, table th {
-	border: 1px solid #595959;
-}
-table td, table th {
-	padding: 3px;
-	width: 30px;
-	height: 35px;
-}
-table th {
-	background: #347c99; 
-	color: #fff; 
-	font-weight: normal;
-}
+
 .css-3d-text {
     font-size: 46px;
     color: #c2c5ff;
@@ -58,3 +37,26 @@ table th {
                  0px -9px 1px rgba(224,131,0,0.5),
                  0px 0px 8px rgba(224,131,0,.2);
  }
+
+.table {
+	width: 100%;
+	border: none;
+	margin-bottom: 20px;
+}
+.table thead th {
+	padding: 10px;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: left;
+	color: #444441;
+	border-top: 2px solid #716561;
+	border-bottom: 2px solid #716561;
+}
+.table tbody td {
+	padding: 10px;
+	font-size: 14px;
+	line-height: 20px;
+	color: #444441;
+	border-top: 1px solid #716561;
+}
