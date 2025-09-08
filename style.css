@@ -107,7 +107,6 @@ font[size="26"] {
     box-shadow: 0 0 15px rgba(79, 195, 247, 0.5);
 }
 
-/* Анимация для заголовков */
 @keyframes pulse {
     0% { text-shadow: 0 0 10px #4fc3f7; }
     50% { text-shadow: 0 0 20px #4fc3f7, 0 0 30px #4fc3f7; }
@@ -118,7 +117,6 @@ font[size="26"] {
     animation: pulse 3s infinite;
 }
 
-/* Стили для изображений с разным выравниванием */
 img[align="left"] {
     float: left;
     margin-right: 20px;
